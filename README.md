@@ -11,7 +11,7 @@ This project is using:
 
 ### Theme
 
-## Add your theme info here.
+Add your theme info here.
 
 ### Third Party Tools/Packages
 
